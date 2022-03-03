@@ -1,5 +1,5 @@
 # zip_modifier
-Simple program that modifies files in a copied zip folder.
+Simple program that modifies files in a comprested zip folder.
 syntax:
 
 python 3.9
