@@ -1,4 +1,4 @@
-# zip_modifier
+# zip_modifier command line interface
 Simple app to modifies files in a comprested zip folder.
 syntax:
 
